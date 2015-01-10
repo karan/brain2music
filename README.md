@@ -18,6 +18,7 @@ This is very experimental code that reads your brain wave data from the Mindwave
 Make sure the headset is paired with your computer, is on and on your head.
 
 ```bash
+$ cd src
 $ npm install node-neurosky timbre
 $ node sonifier.js
 ```
